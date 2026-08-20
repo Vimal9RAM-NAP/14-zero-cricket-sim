@@ -32,10 +32,15 @@
 
 cricket-draft-simulator/
 ├── index.html # Game UI and structural layout
+
 ├── style.css # Styling, layout, and visual feedback
+
 ├── app.js # Core state management, draft engine, and match simulator
+
 ├── generate_players.py # Python script to build/normalize the player dataset
+
 ├── players.json # Auto-generated 200-player database
+
 └── README.md # Project documentation
 
 ## 🚀 Quick Start (Local Setup)
@@ -50,7 +55,7 @@ cricket-draft-simulator/
 2. **Navigate into the project directory:**
 
 ```
-cd cricket-draft-simulator
+    cd cricket-draft-simulator
 ```
 
 3. **(Optional) Rebuild the dataset using Python:**
