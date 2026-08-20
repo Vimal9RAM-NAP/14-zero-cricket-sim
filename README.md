@@ -28,47 +28,43 @@
 
 - **Frontend:** Vanilla HTML5, CSS3, JavaScript (ES6 Modules)
 - **Data Pipeline:** Python script generating a JSON database of 200 player eras
-- **Deployment:** GitHub Pages
+- **Deployment:** GitHub Pages / Vercel
 
+```text
 cricket-draft-simulator/
-├── index.html # Game UI and structural layout
-
-├── style.css # Styling, layout, and visual feedback
-
-├── app.js # Core state management, draft engine, and match simulator
-
+├── index.html          # Game UI and structural layout
+├── style.css           # Styling, layout, and visual feedback
+├── app.js              # Core state management, draft engine, and match simulator
 ├── generate_players.py # Python script to build/normalize the player dataset
+├── players.json        # Auto-generated 200-player database
+└── README.md           # Project documentation
+```
 
-├── players.json # Auto-generated 200-player database
-
-└── README.md # Project documentation
+---
 
 ## 🚀 Quick Start (Local Setup)
 
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/Vimal9RAM-NAP/cricket-draft-simulator.git](https://github.com/Vimal9RAM-NAP/cricket-draft-simulator.git)
-
+   git clone [https://github.com/Vimal9RAM-NAP/14-zero-cricket-sim.git](https://github.com/Vimal9RAM-NAP/14-zero-cricket-sim.git)
    ```
 
 2. **Navigate into the project directory:**
 
-```
-    cd cricket-draft-simulator
-```
+   ```bash
+   cd 14-zero-cricket-sim
+   ```
 
 3. **(Optional) Rebuild the dataset using Python:**
 
-   ```
+   ```bash
    python3 generate_players.py
    ```
 
 4. **Run locally:**
-
-- Open index.html directly in any web browser, or
-
-- Use the VS Code Live Server extension for local testing.
+   - Open `index.html` directly in any web browser, **or**
+   - Use the VS Code **Live Server** extension for local testing.
 
 ## 📈 Match Simulation Math
 
