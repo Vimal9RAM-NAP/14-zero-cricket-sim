@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "role": "Opener",
+    "team_era": "2016 RCB",
+    "batting": 99,
+    "bowling": 18,
+    "is_foreign": false
+  },
+  {
+    "id": 2,
+    "name": "Virat Kohli",
+    "role": "Opener",
+    "team_era": "2024 RCB",
+    "batting": 95,
+    "bowling": 12,
+    "is_foreign": false
+  },
+  {
+    "id": 3,
+    "name": "Chris Gayle",
+    "role": "Opener",
+    "team_era": "2012 RCB",
+    "batting": 99,
+    "bowling": 33,
+    "is_foreign": true
+  },
+  {
+    "id": 4,
+    "name": "Chris Gayle",
+    "role": "Opener",
+    "team_era": "2013 RCB",
+    "batting": 94,
+    "bowling": 24,
+    "is_foreign": true
+  },
+  {
+    "id": 5,
+    "name": "David Warner",
+    "role": "Opener",
+    "team_era": "2016 SRH",
+    "batting": 97,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 6,
+    "name": "David Warner",
+    "role": "Opener",
+    "team_era": "2019 SRH",
+    "batting": 94,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 7,
+    "name": "Jos Buttler",
+    "role": "Opener",
+    "team_era": "2022 RR",
+    "batting": 96,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 8,
+    "name": "KL Rahul",
+    "role": "Opener",
+    "team_era": "2020 KXIP",
+    "batting": 91,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 9,
+    "name": "Shubman Gill",
+    "role": "Opener",
+    "team_era": "2023 GT",
+    "batting": 98,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 10,
+    "name": "Yashasvi Jaiswal",
+    "role": "Opener",
+    "team_era": "2023 RR",
+    "batting": 94,
+    "bowling": 12,
+    "is_foreign": false
+  },
+  {
+    "id": 11,
+    "name": "Travis Head",
+    "role": "Opener",
+    "team_era": "2024 SRH",
+    "batting": 93,
+    "bowling": 19,
+    "is_foreign": true
+  },
+  {
+    "id": 12,
+    "name": "Abhishek Sharma",
+    "role": "Opener",
+    "team_era": "2024 SRH",
+    "batting": 90,
+    "bowling": 41,
+    "is_foreign": false
+  },
+  {
+    "id": 13,
+    "name": "Rohit Sharma",
+    "role": "Opener",
+    "team_era": "2015 MI",
+    "batting": 90,
+    "bowling": 15,
+    "is_foreign": false
+  },
+  {
+    "id": 14,
+    "name": "Gautam Gambhir",
+    "role": "Opener",
+    "team_era": "2012 KKR",
+    "batting": 91,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 15,
+    "name": "Brendon McCullum",
+    "role": "Opener",
+    "team_era": "2008 KKR",
+    "batting": 90,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 16,
+    "name": "Shane Watson",
+    "role": "Opener",
+    "team_era": "2018 CSK",
+    "batting": 93,
+    "bowling": 75,
+    "is_foreign": true
+  },
+  {
+    "id": 17,
+    "name": "Ruturaj Gaikwad",
+    "role": "Opener",
+    "team_era": "2021 CSK",
+    "batting": 90,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 18,
+    "name": "Faf du Plessis",
+    "role": "Opener",
+    "team_era": "2021 CSK",
+    "batting": 89,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 19,
+    "name": "Devdutt Padikkal",
+    "role": "Opener",
+    "team_era": "2020 RCB",
+    "batting": 84,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 20,
+    "name": "Quinton de Kock",
+    "role": "Opener",
+    "team_era": "2020 MI",
+    "batting": 90,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 21,
+    "name": "AB de Villiers",
+    "role": "Middle Order",
+    "team_era": "2016 RCB",
+    "batting": 97,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 22,
+    "name": "AB de Villiers",
+    "role": "Middle Order",
+    "team_era": "2015 RCB",
+    "batting": 96,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 23,
+    "name": "Suresh Raina",
+    "role": "Middle Order",
+    "team_era": "2014 CSK",
+    "batting": 93,
+    "bowling": 47,
+    "is_foreign": false
+  },
+  {
+    "id": 24,
+    "name": "Suresh Raina",
+    "role": "Middle Order",
+    "team_era": "2010 CSK",
+    "batting": 91,
+    "bowling": 50,
+    "is_foreign": false
+  },
+  {
+    "id": 25,
+    "name": "Suryakumar Yadav",
+    "role": "Middle Order",
+    "team_era": "2023 MI",
+    "batting": 97,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 26,
+    "name": "Suryakumar Yadav",
+    "role": "Middle Order",
+    "team_era": "2024 MI",
+    "batting": 96,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 27,
+    "name": "Rinku Singh",
+    "role": "Middle Order",
+    "team_era": "2023 KKR",
+    "batting": 89,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 28,
+    "name": "Heinrich Klaasen",
+    "role": "Middle Order",
+    "team_era": "2024 SRH",
+    "batting": 93,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 29,
+    "name": "Sanju Samson",
+    "role": "Middle Order",
+    "team_era": "2021 RR",
+    "batting": 90,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 30,
+    "name": "Shreyas Iyer",
+    "role": "Middle Order",
+    "team_era": "2024 KKR",
+    "batting": 88,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 31,
+    "name": "Shivam Dube",
+    "role": "Middle Order",
+    "team_era": "2024 CSK",
+    "batting": 87,
+    "bowling": 29,
+    "is_foreign": false
+  },
+  {
+    "id": 32,
+    "name": "Ambati Rayudu",
+    "role": "Middle Order",
+    "team_era": "2018 CSK",
+    "batting": 87,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 33,
+    "name": "Yuvraj Singh",
+    "role": "Middle Order",
+    "team_era": "2014 RCB",
+    "batting": 84,
+    "bowling": 61,
+    "is_foreign": false
+  },
+  {
+    "id": 34,
+    "name": "Glenn Maxwell",
+    "role": "Middle Order",
+    "team_era": "2014 KXIP",
+    "batting": 93,
+    "bowling": 55,
+    "is_foreign": true
+  },
+  {
+    "id": 35,
+    "name": "Glenn Maxwell",
+    "role": "Middle Order",
+    "team_era": "2021 RCB",
+    "batting": 93,
+    "bowling": 50,
+    "is_foreign": true
+  },
+  {
+    "id": 36,
+    "name": "Nicholas Pooran",
+    "role": "Middle Order",
+    "team_era": "2024 LSG",
+    "batting": 94,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 37,
+    "name": "Rishabh Pant",
+    "role": "Middle Order",
+    "team_era": "2018 DD",
+    "batting": 96,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 38,
+    "name": "Tilak Varma",
+    "role": "Middle Order",
+    "team_era": "2023 MI",
+    "batting": 89,
+    "bowling": 21,
+    "is_foreign": false
+  },
+  {
+    "id": 39,
+    "name": "Tristan Stubbs",
+    "role": "Middle Order",
+    "team_era": "2024 DC",
+    "batting": 91,
+    "bowling": 32,
+    "is_foreign": true
+  },
+  {
+    "id": 40,
+    "name": "David Miller",
+    "role": "Middle Order",
+    "team_era": "2022 GT",
+    "batting": 88,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 41,
+    "name": "MS Dhoni",
+    "role": "Wicketkeeper",
+    "team_era": "2011 CSK",
+    "batting": 94,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 42,
+    "name": "MS Dhoni",
+    "role": "Wicketkeeper",
+    "team_era": "2018 CSK",
+    "batting": 96,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 43,
+    "name": "MS Dhoni",
+    "role": "Wicketkeeper",
+    "team_era": "2019 CSK",
+    "batting": 92,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 44,
+    "name": "Rishabh Pant",
+    "role": "Wicketkeeper",
+    "team_era": "2019 DC",
+    "batting": 92,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 45,
+    "name": "Sanju Samson",
+    "role": "Wicketkeeper",
+    "team_era": "2024 RR",
+    "batting": 93,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 46,
+    "name": "Dinesh Karthik",
+    "role": "Wicketkeeper",
+    "team_era": "2022 RCB",
+    "batting": 92,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 47,
+    "name": "Dinesh Karthik",
+    "role": "Wicketkeeper",
+    "team_era": "2018 KKR",
+    "batting": 87,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 48,
+    "name": "Ishitesh Kishan",
+    "role": "Wicketkeeper",
+    "team_era": "2020 MI",
+    "batting": 89,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 49,
+    "name": "Wriddhiman Saha",
+    "role": "Wicketkeeper",
+    "team_era": "2014 KXIP",
+    "batting": 88,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 50,
+    "name": "Phil Salt",
+    "role": "Wicketkeeper",
+    "team_era": "2024 KKR",
+    "batting": 93,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 51,
+    "name": "Hardik Pandya",
+    "role": "All-Rounder",
+    "team_era": "2019 MI",
+    "batting": 92,
+    "bowling": 85,
+    "is_foreign": false
+  },
+  {
+    "id": 52,
+    "name": "Hardik Pandya",
+    "role": "All-Rounder",
+    "team_era": "2022 GT",
+    "batting": 88,
+    "bowling": 83,
+    "is_foreign": false
+  },
+  {
+    "id": 53,
+    "name": "Sunil Narine",
+    "role": "All-Rounder",
+    "team_era": "2018 KKR",
+    "batting": 86,
+    "bowling": 91,
+    "is_foreign": true
+  },
+  {
+    "id": 54,
+    "name": "Sunil Narine",
+    "role": "All-Rounder",
+    "team_era": "2024 KKR",
+    "batting": 94,
+    "bowling": 89,
+    "is_foreign": true
+  },
+  {
+    "id": 55,
+    "name": "Ravindra Jadeja",
+    "role": "All-Rounder",
+    "team_era": "2021 CSK",
+    "batting": 85,
+    "bowling": 90,
+    "is_foreign": false
+  },
+  {
+    "id": 56,
+    "name": "Ravindra Jadeja",
+    "role": "All-Rounder",
+    "team_era": "2023 CSK",
+    "batting": 81,
+    "bowling": 90,
+    "is_foreign": false
+  },
+  {
+    "id": 57,
+    "name": "Andre Russell",
+    "role": "All-Rounder",
+    "team_era": "2019 KKR",
+    "batting": 96,
+    "bowling": 85,
+    "is_foreign": true
+  },
+  {
+    "id": 58,
+    "name": "Andre Russell",
+    "role": "All-Rounder",
+    "team_era": "2024 KKR",
+    "batting": 87,
+    "bowling": 85,
+    "is_foreign": true
+  },
+  {
+    "id": 59,
+    "name": "Shane Watson",
+    "role": "All-Rounder",
+    "team_era": "2008 RR",
+    "batting": 91,
+    "bowling": 89,
+    "is_foreign": true
+  },
+  {
+    "id": 60,
+    "name": "Marcus Stoinis",
+    "role": "All-Rounder",
+    "team_era": "2024 LSG",
+    "batting": 90,
+    "bowling": 76,
+    "is_foreign": true
+  },
+  {
+    "id": 61,
+    "name": "Axar Patel",
+    "role": "All-Rounder",
+    "team_era": "2023 DC",
+    "batting": 82,
+    "bowling": 87,
+    "is_foreign": false
+  },
+  {
+    "id": 62,
+    "name": "Kieron Pollard",
+    "role": "All-Rounder",
+    "team_era": "2013 MI",
+    "batting": 90,
+    "bowling": 81,
+    "is_foreign": true
+  },
+  {
+    "id": 63,
+    "name": "Kieron Pollard",
+    "role": "All-Rounder",
+    "team_era": "2020 MI",
+    "batting": 89,
+    "bowling": 63,
+    "is_foreign": true
+  },
+  {
+    "id": 64,
+    "name": "Sam Curran",
+    "role": "All-Rounder",
+    "team_era": "2020 CSK",
+    "batting": 79,
+    "bowling": 85,
+    "is_foreign": true
+  },
+  {
+    "id": 65,
+    "name": "Cameron Green",
+    "role": "All-Rounder",
+    "team_era": "2023 MI",
+    "batting": 90,
+    "bowling": 75,
+    "is_foreign": true
+  },
+  {
+    "id": 66,
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "team_era": "2020 MI",
+    "batting": 20,
+    "bowling": 99,
+    "is_foreign": false
+  },
+  {
+    "id": 67,
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "team_era": "2024 MI",
+    "batting": 17,
+    "bowling": 99,
+    "is_foreign": false
+  },
+  {
+    "id": 68,
+    "name": "Lasith Malinga",
+    "role": "Bowler",
+    "team_era": "2011 MI",
+    "batting": 10,
+    "bowling": 99,
+    "is_foreign": true
+  },
+  {
+    "id": 69,
+    "name": "Lasith Malinga",
+    "role": "Bowler",
+    "team_era": "2017 MI",
+    "batting": 10,
+    "bowling": 92,
+    "is_foreign": true
+  },
+  {
+    "id": 70,
+    "name": "Rashid Khan",
+    "role": "Bowler",
+    "team_era": "2018 SRH",
+    "batting": 61,
+    "bowling": 95,
+    "is_foreign": true
+  },
+  {
+    "id": 71,
+    "name": "Rashid Khan",
+    "role": "Bowler",
+    "team_era": "2022 GT",
+    "batting": 68,
+    "bowling": 94,
+    "is_foreign": true
+  },
+  {
+    "id": 72,
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "team_era": "2022 RR",
+    "batting": 12,
+    "bowling": 92,
+    "is_foreign": false
+  },
+  {
+    "id": 73,
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "team_era": "2015 RCB",
+    "batting": 10,
+    "bowling": 90,
+    "is_foreign": false
+  },
+  {
+    "id": 74,
+    "name": "Bhuvaneshwar Kumar",
+    "role": "Bowler",
+    "team_era": "2016 SRH",
+    "batting": 15,
+    "bowling": 97,
+    "is_foreign": false
+  },
+  {
+    "id": 75,
+    "name": "Bhuvaneshwar Kumar",
+    "role": "Bowler",
+    "team_era": "2017 SRH",
+    "batting": 17,
+    "bowling": 93,
+    "is_foreign": false
+  },
+  {
+    "id": 76,
+    "name": "Mohammed Shami",
+    "role": "Bowler",
+    "team_era": "2023 GT",
+    "batting": 14,
+    "bowling": 93,
+    "is_foreign": false
+  },
+  {
+    "id": 77,
+    "name": "Kagiso Rabada",
+    "role": "Bowler",
+    "team_era": "2020 DC",
+    "batting": 13,
+    "bowling": 92,
+    "is_foreign": true
+  },
+  {
+    "id": 78,
+    "name": "Trent Boult",
+    "role": "Bowler",
+    "team_era": "2020 MI",
+    "batting": 16,
+    "bowling": 93,
+    "is_foreign": true
+  },
+  {
+    "id": 79,
+    "name": "Harshal Patel",
+    "role": "Bowler",
+    "team_era": "2021 RCB",
+    "batting": 26,
+    "bowling": 96,
+    "is_foreign": false
+  },
+  {
+    "id": 80,
+    "name": "Varun Chakaravarthy",
+    "role": "Bowler",
+    "team_era": "2024 KKR",
+    "batting": 12,
+    "bowling": 90,
+    "is_foreign": false
+  },
+  {
+    "id": 81,
+    "name": "Kuldeep Yadav",
+    "role": "Bowler",
+    "team_era": "2024 DC",
+    "batting": 18,
+    "bowling": 93,
+    "is_foreign": false
+  },
+  {
+    "id": 82,
+    "name": "Arshdeep Singh",
+    "role": "Bowler",
+    "team_era": "2023 PBKS",
+    "batting": 10,
+    "bowling": 87,
+    "is_foreign": false
+  },
+  {
+    "id": 83,
+    "name": "Matheesha Pathirana",
+    "role": "Bowler",
+    "team_era": "2023 CSK",
+    "batting": 11,
+    "bowling": 91,
+    "is_foreign": true
+  },
+  {
+    "id": 84,
+    "name": "Mitchell Starc",
+    "role": "Bowler",
+    "team_era": "2015 RCB",
+    "batting": 15,
+    "bowling": 94,
+    "is_foreign": true
+  },
+  {
+    "id": 85,
+    "name": "Dwayne Bravo",
+    "role": "Bowler",
+    "team_era": "2013 CSK",
+    "batting": 42,
+    "bowling": 93,
+    "is_foreign": true
+  },
+  {
+    "id": 86,
+    "name": "Virat Kohli",
+    "role": "Opener",
+    "team_era": "2016 RCB (Alt)",
+    "batting": 96,
+    "bowling": 18,
+    "is_foreign": false
+  },
+  {
+    "id": 87,
+    "name": "Virat Kohli",
+    "role": "Opener",
+    "team_era": "2024 RCB (Alt)",
+    "batting": 93,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 88,
+    "name": "Chris Gayle",
+    "role": "Opener",
+    "team_era": "2012 RCB (Alt)",
+    "batting": 96,
+    "bowling": 35,
+    "is_foreign": true
+  },
+  {
+    "id": 89,
+    "name": "Chris Gayle",
+    "role": "Opener",
+    "team_era": "2013 RCB (Alt)",
+    "batting": 96,
+    "bowling": 26,
+    "is_foreign": true
+  },
+  {
+    "id": 90,
+    "name": "David Warner",
+    "role": "Opener",
+    "team_era": "2016 SRH (Alt)",
+    "batting": 96,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 91,
+    "name": "David Warner",
+    "role": "Opener",
+    "team_era": "2019 SRH (Alt)",
+    "batting": 94,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 92,
+    "name": "Jos Buttler",
+    "role": "Opener",
+    "team_era": "2022 RR (Alt)",
+    "batting": 94,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 93,
+    "name": "KL Rahul",
+    "role": "Opener",
+    "team_era": "2020 KXIP (Alt)",
+    "batting": 92,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 94,
+    "name": "Shubman Gill",
+    "role": "Opener",
+    "team_era": "2023 GT (Alt)",
+    "batting": 94,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 95,
+    "name": "Yashasvi Jaiswal",
+    "role": "Opener",
+    "team_era": "2023 RR (Alt)",
+    "batting": 93,
+    "bowling": 11,
+    "is_foreign": false
+  },
+  {
+    "id": 96,
+    "name": "Travis Head",
+    "role": "Opener",
+    "team_era": "2024 SRH (Alt)",
+    "batting": 93,
+    "bowling": 22,
+    "is_foreign": true
+  },
+  {
+    "id": 97,
+    "name": "Abhishek Sharma",
+    "role": "Opener",
+    "team_era": "2024 SRH (Alt)",
+    "batting": 92,
+    "bowling": 41,
+    "is_foreign": false
+  },
+  {
+    "id": 98,
+    "name": "Rohit Sharma",
+    "role": "Opener",
+    "team_era": "2015 MI (Alt)",
+    "batting": 89,
+    "bowling": 16,
+    "is_foreign": false
+  },
+  {
+    "id": 99,
+    "name": "Gautam Gambhir",
+    "role": "Opener",
+    "team_era": "2012 KKR (Alt)",
+    "batting": 90,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 100,
+    "name": "Brendon McCullum",
+    "role": "Opener",
+    "team_era": "2008 KKR (Alt)",
+    "batting": 90,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 101,
+    "name": "Shane Watson",
+    "role": "Opener",
+    "team_era": "2018 CSK (Alt)",
+    "batting": 91,
+    "bowling": 74,
+    "is_foreign": true
+  },
+  {
+    "id": 102,
+    "name": "Ruturaj Gaikwad",
+    "role": "Opener",
+    "team_era": "2021 CSK (Alt)",
+    "batting": 90,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 103,
+    "name": "Faf du Plessis",
+    "role": "Opener",
+    "team_era": "2021 CSK (Alt)",
+    "batting": 89,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 104,
+    "name": "Devdutt Padikkal",
+    "role": "Opener",
+    "team_era": "2020 RCB (Alt)",
+    "batting": 85,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 105,
+    "name": "Quinton de Kock",
+    "role": "Opener",
+    "team_era": "2020 MI (Alt)",
+    "batting": 89,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 106,
+    "name": "AB de Villiers",
+    "role": "Middle Order",
+    "team_era": "2016 RCB (Alt)",
+    "batting": 97,
+    "bowling": 12,
+    "is_foreign": true
+  },
+  {
+    "id": 107,
+    "name": "AB de Villiers",
+    "role": "Middle Order",
+    "team_era": "2015 RCB (Alt)",
+    "batting": 94,
+    "bowling": 11,
+    "is_foreign": true
+  },
+  {
+    "id": 108,
+    "name": "Suresh Raina",
+    "role": "Middle Order",
+    "team_era": "2014 CSK (Alt)",
+    "batting": 95,
+    "bowling": 46,
+    "is_foreign": false
+  },
+  {
+    "id": 109,
+    "name": "Suresh Raina",
+    "role": "Middle Order",
+    "team_era": "2010 CSK (Alt)",
+    "batting": 91,
+    "bowling": 52,
+    "is_foreign": false
+  },
+  {
+    "id": 110,
+    "name": "Suryakumar Yadav",
+    "role": "Middle Order",
+    "team_era": "2023 MI (Alt)",
+    "batting": 96,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 111,
+    "name": "Suryakumar Yadav",
+    "role": "Middle Order",
+    "team_era": "2024 MI (Alt)",
+    "batting": 96,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 112,
+    "name": "Rinku Singh",
+    "role": "Middle Order",
+    "team_era": "2023 KKR (Alt)",
+    "batting": 92,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 113,
+    "name": "Heinrich Klaasen",
+    "role": "Middle Order",
+    "team_era": "2024 SRH (Alt)",
+    "batting": 93,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 114,
+    "name": "Sanju Samson",
+    "role": "Middle Order",
+    "team_era": "2021 RR (Alt)",
+    "batting": 88,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 115,
+    "name": "Shreyas Iyer",
+    "role": "Middle Order",
+    "team_era": "2024 KKR (Alt)",
+    "batting": 86,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 116,
+    "name": "Shivam Dube",
+    "role": "Middle Order",
+    "team_era": "2024 CSK (Alt)",
+    "batting": 88,
+    "bowling": 32,
+    "is_foreign": false
+  },
+  {
+    "id": 117,
+    "name": "Ambati Rayudu",
+    "role": "Middle Order",
+    "team_era": "2018 CSK (Alt)",
+    "batting": 86,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 118,
+    "name": "Yuvraj Singh",
+    "role": "Middle Order",
+    "team_era": "2014 RCB (Alt)",
+    "batting": 85,
+    "bowling": 62,
+    "is_foreign": false
+  },
+  {
+    "id": 119,
+    "name": "Glenn Maxwell",
+    "role": "Middle Order",
+    "team_era": "2014 KXIP (Alt)",
+    "batting": 93,
+    "bowling": 54,
+    "is_foreign": true
+  },
+  {
+    "id": 120,
+    "name": "Glenn Maxwell",
+    "role": "Middle Order",
+    "team_era": "2021 RCB (Alt)",
+    "batting": 91,
+    "bowling": 49,
+    "is_foreign": true
+  },
+  {
+    "id": 121,
+    "name": "Nicholas Pooran",
+    "role": "Middle Order",
+    "team_era": "2024 LSG (Alt)",
+    "batting": 92,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 122,
+    "name": "Rishabh Pant",
+    "role": "Middle Order",
+    "team_era": "2018 DD (Alt)",
+    "batting": 98,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 123,
+    "name": "Tilak Varma",
+    "role": "Middle Order",
+    "team_era": "2023 MI (Alt)",
+    "batting": 88,
+    "bowling": 20,
+    "is_foreign": false
+  },
+  {
+    "id": 124,
+    "name": "Tristan Stubbs",
+    "role": "Middle Order",
+    "team_era": "2024 DC (Alt)",
+    "batting": 88,
+    "bowling": 28,
+    "is_foreign": true
+  },
+  {
+    "id": 125,
+    "name": "David Miller",
+    "role": "Middle Order",
+    "team_era": "2022 GT (Alt)",
+    "batting": 90,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 126,
+    "name": "MS Dhoni",
+    "role": "Wicketkeeper",
+    "team_era": "2011 CSK (Alt)",
+    "batting": 93,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 127,
+    "name": "MS Dhoni",
+    "role": "Wicketkeeper",
+    "team_era": "2018 CSK (Alt)",
+    "batting": 94,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 128,
+    "name": "MS Dhoni",
+    "role": "Wicketkeeper",
+    "team_era": "2019 CSK (Alt)",
+    "batting": 91,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 129,
+    "name": "Rishabh Pant",
+    "role": "Wicketkeeper",
+    "team_era": "2019 DC (Alt)",
+    "batting": 91,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 130,
+    "name": "Sanju Samson",
+    "role": "Wicketkeeper",
+    "team_era": "2024 RR (Alt)",
+    "batting": 93,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 131,
+    "name": "Dinesh Karthik",
+    "role": "Wicketkeeper",
+    "team_era": "2022 RCB (Alt)",
+    "batting": 93,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 132,
+    "name": "Dinesh Karthik",
+    "role": "Wicketkeeper",
+    "team_era": "2018 KKR (Alt)",
+    "batting": 88,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 133,
+    "name": "Ishitesh Kishan",
+    "role": "Wicketkeeper",
+    "team_era": "2020 MI (Alt)",
+    "batting": 89,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 134,
+    "name": "Wriddhiman Saha",
+    "role": "Wicketkeeper",
+    "team_era": "2014 KXIP (Alt)",
+    "batting": 84,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 135,
+    "name": "Phil Salt",
+    "role": "Wicketkeeper",
+    "team_era": "2024 KKR (Alt)",
+    "batting": 90,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 136,
+    "name": "Hardik Pandya",
+    "role": "All-Rounder",
+    "team_era": "2019 MI (Alt)",
+    "batting": 90,
+    "bowling": 83,
+    "is_foreign": false
+  },
+  {
+    "id": 137,
+    "name": "Hardik Pandya",
+    "role": "All-Rounder",
+    "team_era": "2022 GT (Alt)",
+    "batting": 90,
+    "bowling": 84,
+    "is_foreign": false
+  },
+  {
+    "id": 138,
+    "name": "Sunil Narine",
+    "role": "All-Rounder",
+    "team_era": "2018 KKR (Alt)",
+    "batting": 86,
+    "bowling": 92,
+    "is_foreign": true
+  },
+  {
+    "id": 139,
+    "name": "Sunil Narine",
+    "role": "All-Rounder",
+    "team_era": "2024 KKR (Alt)",
+    "batting": 91,
+    "bowling": 89,
+    "is_foreign": true
+  },
+  {
+    "id": 140,
+    "name": "Ravindra Jadeja",
+    "role": "All-Rounder",
+    "team_era": "2021 CSK (Alt)",
+    "batting": 85,
+    "bowling": 87,
+    "is_foreign": false
+  },
+  {
+    "id": 141,
+    "name": "Ravindra Jadeja",
+    "role": "All-Rounder",
+    "team_era": "2023 CSK (Alt)",
+    "batting": 80,
+    "bowling": 89,
+    "is_foreign": false
+  },
+  {
+    "id": 142,
+    "name": "Andre Russell",
+    "role": "All-Rounder",
+    "team_era": "2019 KKR (Alt)",
+    "batting": 95,
+    "bowling": 84,
+    "is_foreign": true
+  },
+  {
+    "id": 143,
+    "name": "Andre Russell",
+    "role": "All-Rounder",
+    "team_era": "2024 KKR (Alt)",
+    "batting": 87,
+    "bowling": 88,
+    "is_foreign": true
+  },
+  {
+    "id": 144,
+    "name": "Shane Watson",
+    "role": "All-Rounder",
+    "team_era": "2008 RR (Alt)",
+    "batting": 87,
+    "bowling": 86,
+    "is_foreign": true
+  },
+  {
+    "id": 145,
+    "name": "Marcus Stoinis",
+    "role": "All-Rounder",
+    "team_era": "2024 LSG (Alt)",
+    "batting": 91,
+    "bowling": 77,
+    "is_foreign": true
+  },
+  {
+    "id": 146,
+    "name": "Axar Patel",
+    "role": "All-Rounder",
+    "team_era": "2023 DC (Alt)",
+    "batting": 84,
+    "bowling": 86,
+    "is_foreign": false
+  },
+  {
+    "id": 147,
+    "name": "Kieron Pollard",
+    "role": "All-Rounder",
+    "team_era": "2013 MI (Alt)",
+    "batting": 89,
+    "bowling": 81,
+    "is_foreign": true
+  },
+  {
+    "id": 148,
+    "name": "Kieron Pollard",
+    "role": "All-Rounder",
+    "team_era": "2020 MI (Alt)",
+    "batting": 92,
+    "bowling": 64,
+    "is_foreign": true
+  },
+  {
+    "id": 149,
+    "name": "Sam Curran",
+    "role": "All-Rounder",
+    "team_era": "2020 CSK (Alt)",
+    "batting": 79,
+    "bowling": 85,
+    "is_foreign": true
+  },
+  {
+    "id": 150,
+    "name": "Cameron Green",
+    "role": "All-Rounder",
+    "team_era": "2023 MI (Alt)",
+    "batting": 88,
+    "bowling": 75,
+    "is_foreign": true
+  },
+  {
+    "id": 151,
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "team_era": "2020 MI (Alt)",
+    "batting": 18,
+    "bowling": 99,
+    "is_foreign": false
+  },
+  {
+    "id": 152,
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "team_era": "2024 MI (Alt)",
+    "batting": 14,
+    "bowling": 99,
+    "is_foreign": false
+  },
+  {
+    "id": 153,
+    "name": "Lasith Malinga",
+    "role": "Bowler",
+    "team_era": "2011 MI (Alt)",
+    "batting": 10,
+    "bowling": 99,
+    "is_foreign": true
+  },
+  {
+    "id": 154,
+    "name": "Lasith Malinga",
+    "role": "Bowler",
+    "team_era": "2017 MI (Alt)",
+    "batting": 10,
+    "bowling": 96,
+    "is_foreign": true
+  },
+  {
+    "id": 155,
+    "name": "Rashid Khan",
+    "role": "Bowler",
+    "team_era": "2018 SRH (Alt)",
+    "batting": 59,
+    "bowling": 96,
+    "is_foreign": true
+  },
+  {
+    "id": 156,
+    "name": "Rashid Khan",
+    "role": "Bowler",
+    "team_era": "2022 GT (Alt)",
+    "batting": 69,
+    "bowling": 93,
+    "is_foreign": true
+  },
+  {
+    "id": 157,
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "team_era": "2022 RR (Alt)",
+    "batting": 10,
+    "bowling": 94,
+    "is_foreign": false
+  },
+  {
+    "id": 158,
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "team_era": "2015 RCB (Alt)",
+    "batting": 11,
+    "bowling": 93,
+    "is_foreign": false
+  },
+  {
+    "id": 159,
+    "name": "Bhuvaneshwar Kumar",
+    "role": "Bowler",
+    "team_era": "2016 SRH (Alt)",
+    "batting": 13,
+    "bowling": 96,
+    "is_foreign": false
+  },
+  {
+    "id": 160,
+    "name": "Bhuvaneshwar Kumar",
+    "role": "Bowler",
+    "team_era": "2017 SRH (Alt)",
+    "batting": 16,
+    "bowling": 92,
+    "is_foreign": false
+  },
+  {
+    "id": 161,
+    "name": "Mohammed Shami",
+    "role": "Bowler",
+    "team_era": "2023 GT (Alt)",
+    "batting": 14,
+    "bowling": 97,
+    "is_foreign": false
+  },
+  {
+    "id": 162,
+    "name": "Kagiso Rabada",
+    "role": "Bowler",
+    "team_era": "2020 DC (Alt)",
+    "batting": 17,
+    "bowling": 94,
+    "is_foreign": true
+  },
+  {
+    "id": 163,
+    "name": "Trent Boult",
+    "role": "Bowler",
+    "team_era": "2020 MI (Alt)",
+    "batting": 14,
+    "bowling": 93,
+    "is_foreign": true
+  },
+  {
+    "id": 164,
+    "name": "Harshal Patel",
+    "role": "Bowler",
+    "team_era": "2021 RCB (Alt)",
+    "batting": 27,
+    "bowling": 96,
+    "is_foreign": false
+  },
+  {
+    "id": 165,
+    "name": "Varun Chakaravarthy",
+    "role": "Bowler",
+    "team_era": "2024 KKR (Alt)",
+    "batting": 10,
+    "bowling": 91,
+    "is_foreign": false
+  },
+  {
+    "id": 166,
+    "name": "Kuldeep Yadav",
+    "role": "Bowler",
+    "team_era": "2024 DC (Alt)",
+    "batting": 22,
+    "bowling": 92,
+    "is_foreign": false
+  },
+  {
+    "id": 167,
+    "name": "Arshdeep Singh",
+    "role": "Bowler",
+    "team_era": "2023 PBKS (Alt)",
+    "batting": 12,
+    "bowling": 90,
+    "is_foreign": false
+  },
+  {
+    "id": 168,
+    "name": "Matheesha Pathirana",
+    "role": "Bowler",
+    "team_era": "2023 CSK (Alt)",
+    "batting": 11,
+    "bowling": 92,
+    "is_foreign": true
+  },
+  {
+    "id": 169,
+    "name": "Mitchell Starc",
+    "role": "Bowler",
+    "team_era": "2015 RCB (Alt)",
+    "batting": 14,
+    "bowling": 92,
+    "is_foreign": true
+  },
+  {
+    "id": 170,
+    "name": "Dwayne Bravo",
+    "role": "Bowler",
+    "team_era": "2013 CSK (Alt)",
+    "batting": 41,
+    "bowling": 93,
+    "is_foreign": true
+  },
+  {
+    "id": 171,
+    "name": "Virat Kohli",
+    "role": "Opener",
+    "team_era": "2016 RCB (Alt)",
+    "batting": 99,
+    "bowling": 18,
+    "is_foreign": false
+  },
+  {
+    "id": 172,
+    "name": "Virat Kohli",
+    "role": "Opener",
+    "team_era": "2024 RCB (Alt)",
+    "batting": 92,
+    "bowling": 11,
+    "is_foreign": false
+  },
+  {
+    "id": 173,
+    "name": "Chris Gayle",
+    "role": "Opener",
+    "team_era": "2012 RCB (Alt)",
+    "batting": 96,
+    "bowling": 36,
+    "is_foreign": true
+  },
+  {
+    "id": 174,
+    "name": "Chris Gayle",
+    "role": "Opener",
+    "team_era": "2013 RCB (Alt)",
+    "batting": 95,
+    "bowling": 23,
+    "is_foreign": true
+  },
+  {
+    "id": 175,
+    "name": "David Warner",
+    "role": "Opener",
+    "team_era": "2016 SRH (Alt)",
+    "batting": 94,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 176,
+    "name": "David Warner",
+    "role": "Opener",
+    "team_era": "2019 SRH (Alt)",
+    "batting": 94,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 177,
+    "name": "Jos Buttler",
+    "role": "Opener",
+    "team_era": "2022 RR (Alt)",
+    "batting": 98,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 178,
+    "name": "KL Rahul",
+    "role": "Opener",
+    "team_era": "2020 KXIP (Alt)",
+    "batting": 94,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 179,
+    "name": "Shubman Gill",
+    "role": "Opener",
+    "team_era": "2023 GT (Alt)",
+    "batting": 95,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 180,
+    "name": "Yashasvi Jaiswal",
+    "role": "Opener",
+    "team_era": "2023 RR (Alt)",
+    "batting": 92,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 181,
+    "name": "Travis Head",
+    "role": "Opener",
+    "team_era": "2024 SRH (Alt)",
+    "batting": 95,
+    "bowling": 18,
+    "is_foreign": true
+  },
+  {
+    "id": 182,
+    "name": "Abhishek Sharma",
+    "role": "Opener",
+    "team_era": "2024 SRH (Alt)",
+    "batting": 92,
+    "bowling": 39,
+    "is_foreign": false
+  },
+  {
+    "id": 183,
+    "name": "Rohit Sharma",
+    "role": "Opener",
+    "team_era": "2015 MI (Alt)",
+    "batting": 91,
+    "bowling": 16,
+    "is_foreign": false
+  },
+  {
+    "id": 184,
+    "name": "Gautam Gambhir",
+    "role": "Opener",
+    "team_era": "2012 KKR (Alt)",
+    "batting": 90,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 185,
+    "name": "Brendon McCullum",
+    "role": "Opener",
+    "team_era": "2008 KKR (Alt)",
+    "batting": 89,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 186,
+    "name": "Shane Watson",
+    "role": "Opener",
+    "team_era": "2018 CSK (Alt)",
+    "batting": 92,
+    "bowling": 75,
+    "is_foreign": true
+  },
+  {
+    "id": 187,
+    "name": "Ruturaj Gaikwad",
+    "role": "Opener",
+    "team_era": "2021 CSK (Alt)",
+    "batting": 94,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 188,
+    "name": "Faf du Plessis",
+    "role": "Opener",
+    "team_era": "2021 CSK (Alt)",
+    "batting": 92,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 189,
+    "name": "Devdutt Padikkal",
+    "role": "Opener",
+    "team_era": "2020 RCB (Alt)",
+    "batting": 86,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 190,
+    "name": "Quinton de Kock",
+    "role": "Opener",
+    "team_era": "2020 MI (Alt)",
+    "batting": 90,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 191,
+    "name": "AB de Villiers",
+    "role": "Middle Order",
+    "team_era": "2016 RCB (Alt)",
+    "batting": 95,
+    "bowling": 12,
+    "is_foreign": true
+  },
+  {
+    "id": 192,
+    "name": "AB de Villiers",
+    "role": "Middle Order",
+    "team_era": "2015 RCB (Alt)",
+    "batting": 94,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 193,
+    "name": "Suresh Raina",
+    "role": "Middle Order",
+    "team_era": "2014 CSK (Alt)",
+    "batting": 93,
+    "bowling": 47,
+    "is_foreign": false
+  },
+  {
+    "id": 194,
+    "name": "Suresh Raina",
+    "role": "Middle Order",
+    "team_era": "2010 CSK (Alt)",
+    "batting": 91,
+    "bowling": 50,
+    "is_foreign": false
+  },
+  {
+    "id": 195,
+    "name": "Suryakumar Yadav",
+    "role": "Middle Order",
+    "team_era": "2023 MI (Alt)",
+    "batting": 95,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 196,
+    "name": "Suryakumar Yadav",
+    "role": "Middle Order",
+    "team_era": "2024 MI (Alt)",
+    "batting": 93,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 197,
+    "name": "Rinku Singh",
+    "role": "Middle Order",
+    "team_era": "2023 KKR (Alt)",
+    "batting": 92,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 198,
+    "name": "Heinrich Klaasen",
+    "role": "Middle Order",
+    "team_era": "2024 SRH (Alt)",
+    "batting": 95,
+    "bowling": 10,
+    "is_foreign": true
+  },
+  {
+    "id": 199,
+    "name": "Sanju Samson",
+    "role": "Middle Order",
+    "team_era": "2021 RR (Alt)",
+    "batting": 87,
+    "bowling": 10,
+    "is_foreign": false
+  },
+  {
+    "id": 200,
+    "name": "Shreyas Iyer",
+    "role": "Middle Order",
+    "team_era": "2024 KKR (Alt)",
+    "batting": 89,
+    "bowling": 10,
+    "is_foreign": false
+  }
+]

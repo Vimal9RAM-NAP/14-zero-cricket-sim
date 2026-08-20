@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>14-0: IPL Squad Draft & Simulator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🏏 14-0: IPL Draft Challenge</h1>
+      <p>Draft your ultimate XI and go unbeaten through a 14-match season!</p>
+    </header>
+
+    <main>
+      <section class="status-board">
+        <div class="stat">
+          <span class="label">Overseas Players:</span>
+          <span id="foreign-count" class="value">0 / 4</span>
+        </div>
+        <div class="stat">
+          <span class="label">Squad Slots:</span>
+          <span id="squad-count" class="value">0 / 11</span>
+        </div>
+      </section>
+
+      <section id="draft-area" class="draft-area">
+        <button id="draw-btn" class="primary-btn">Draft Next Player</button>
+        <div id="card-options" class="card-options"></div>
+      </section>
+
+      <section class="roster-section">
+        <h2>Your XI</h2>
+        <div id="roster" class="roster-grid"></div>
+      </section>
+
+      <section class="simulation-section">
+        <button id="sim-btn" class="sim-btn" disabled>Simulate 14-Match Season</button>
+        <div id="sim-results" class="sim-results"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
