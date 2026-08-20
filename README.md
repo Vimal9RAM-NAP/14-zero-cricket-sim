@@ -50,7 +50,7 @@ cricket-draft-simulator/
 2. **Navigate into the project directory:**
 
 ```
-   cd cricket-draft-simulator
+cd cricket-draft-simulator
 ```
 
 3. **(Optional) Rebuild the dataset using Python:**
@@ -78,4 +78,3 @@ For each match ($1$ to $14$), a pseudo-random value determines whether $r < P(\t
 ## ⚠️ Disclaimer
 
 This repository is an open-source, non-commercial educational project built for portfolio and learning purposes. It is not affiliated with, endorsed by, or sponsored by any official cricket league or governing body. All player names and statistics belong to their respective copyright holders.
-
