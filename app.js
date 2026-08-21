@@ -50,19 +50,19 @@ drawBtn.addEventListener('click', () => {
 
   const currentRequirement = SQUAD_STRUCTURE[draftedSquad.length];
   
-  // 1. Filter out players already drafted
-  // 2. Filter players matching the required position
+  // 1. Filter out players whose NAME is already drafted (prevents multi-era duplicates)
+  // 2. Filter players matching the required role
   let available = allPlayers.filter(
-    p => p.role === currentRequirement.role && !draftedSquad.some(s => s.id === p.id)
+    p => p.role === currentRequirement.role && !draftedSquad.some(s => s.name === p.name)
   );
 
-  // If foreign cap reached (4/4), exclude foreign choices
+  // If foreign cap reached (4/4), exclude foreign options from candidate pool
   if (foreignCount >= 4) {
     available = available.filter(p => !p.is_foreign);
   }
 
   if (available.length < 2) {
-    alert(`Not enough available players left for role: ${currentRequirement.role}`);
+    alert(`Not enough available domestic/role players left for: ${currentRequirement.role}`);
     return;
   }
 
