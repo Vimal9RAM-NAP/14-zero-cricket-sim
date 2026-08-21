@@ -2,6 +2,21 @@ let allPlayers = [];
 let draftedSquad = [];
 let foreignCount = 0;
 
+// Enforce squad position sequence (11 total)
+const SQUAD_STRUCTURE = [
+  { id: 1, role: 'Opener' },
+  { id: 2, role: 'Opener' },
+  { id: 3, role: 'Middle Order' },
+  { id: 4, role: 'Middle Order' },
+  { id: 5, role: 'Middle Order' },
+  { id: 6, role: 'Wicketkeeper' },
+  { id: 7, role: 'All-Rounder' },
+  { id: 8, role: 'All-Rounder' },
+  { id: 9, role: 'Bowler' },
+  { id: 10, role: 'Bowler' },
+  { id: 11, role: 'Bowler' }
+];
+
 const drawBtn = document.getElementById('draw-btn');
 const simBtn = document.getElementById('sim-btn');
 const cardOptions = document.getElementById('card-options');
@@ -22,20 +37,34 @@ async function initApp() {
 
 function renderEmptyRoster() {
   rosterGrid.innerHTML = '';
-  for (let i = 1; i <= 11; i++) {
-    const slot = document.createElement('div');
-    slot.className = 'roster-slot';
-    slot.innerText = `Slot ${i}: Empty`;
-    rosterGrid.appendChild(slot);
-  }
+  SQUAD_STRUCTURE.forEach(slot => {
+    const div = document.createElement('div');
+    div.className = 'roster-slot';
+    div.innerText = `Slot ${slot.id}: ${slot.role}`;
+    rosterGrid.appendChild(div);
+  });
 }
 
 drawBtn.addEventListener('click', () => {
   if (draftedSquad.length >= 11) return;
 
-  const available = allPlayers.filter(
-    p => !draftedSquad.some(s => s.id === p.id)
+  const currentRequirement = SQUAD_STRUCTURE[draftedSquad.length];
+  
+  // 1. Filter out players already drafted
+  // 2. Filter players matching the required position
+  let available = allPlayers.filter(
+    p => p.role === currentRequirement.role && !draftedSquad.some(s => s.id === p.id)
   );
+
+  // If foreign cap reached (4/4), exclude foreign choices
+  if (foreignCount >= 4) {
+    available = available.filter(p => !p.is_foreign);
+  }
+
+  if (available.length < 2) {
+    alert(`Not enough available players left for role: ${currentRequirement.role}`);
+    return;
+  }
 
   const shuffled = [...available].sort(() => 0.5 - Math.random());
   const choices = shuffled.slice(0, 2);
@@ -79,10 +108,21 @@ function updateUI() {
   squadCountEl.innerText = `${draftedSquad.length} / 11`;
 
   const slots = rosterGrid.querySelectorAll('.roster-slot');
+  
+  // Render filled slots
   draftedSquad.forEach((p, idx) => {
     slots[idx].innerText = `${idx + 1}. ${p.name} (${p.role})`;
     slots[idx].style.borderColor = '#38bdf8';
+    slots[idx].classList.add('filled');
   });
+
+  // Prompt next target slot role on draw button text
+  if (draftedSquad.length < 11) {
+    const nextRole = SQUAD_STRUCTURE[draftedSquad.length].role;
+    drawBtn.innerText = `Draft ${nextRole}`;
+  } else {
+    drawBtn.innerText = `Draft Complete`;
+  }
 }
 
 simBtn.addEventListener('click', () => {
