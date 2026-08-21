@@ -125,7 +125,11 @@ function updateUI() {
   }
 }
 
+// Single-run simulation execution
 simBtn.addEventListener('click', () => {
+  // Lock simulation button to prevent re-simulating
+  simBtn.disabled = true;
+
   const totalBatting = draftedSquad.reduce((acc, p) => acc + p.batting, 0);
   const totalBowling = draftedSquad.reduce((acc, p) => acc + p.bowling, 0);
   const teamScore = totalBatting + totalBowling;
@@ -142,7 +146,25 @@ simBtn.addEventListener('click', () => {
   simResultsEl.innerHTML = `
     <p>Final Record: <span style="color:#38bdf8">${wins}-${losses}</span></p>
     <p>${wins === 14 ? '🏆 PERFECT 14-0 SEASON! UNBEATEN!' : 'Good attempt! Try drafting a higher-rated XI.'}</p>
+    <button id="reset-btn" class="primary-btn" style="margin-top: 14px; background-color: #10b981;">Play Again 🔄</button>
   `;
+
+  // Attach restart logic
+  document.getElementById('reset-btn').addEventListener('click', resetGame);
 });
+
+// Restart full state
+function resetGame() {
+  draftedSquad = [];
+  foreignCount = 0;
+  
+  drawBtn.disabled = false;
+  simBtn.disabled = true;
+  simResultsEl.innerHTML = '';
+  cardOptions.innerHTML = '';
+  
+  renderEmptyRoster();
+  updateUI();
+}
 
 initApp();
