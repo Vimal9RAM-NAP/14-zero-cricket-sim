@@ -28,7 +28,7 @@
 
 - **Frontend:** Vanilla HTML5, CSS3, JavaScript (ES6 Modules)
 - **Data Pipeline:** Python script generating a JSON database of 200 player eras
-- **Deployment:** GitHub Pages / Vercel
+- **Deployment:** GitHub Pages
 
 ```text
 cricket-draft-simulator/
