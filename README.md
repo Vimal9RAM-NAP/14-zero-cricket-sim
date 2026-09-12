@@ -79,3 +79,7 @@ For each match ($1$ to $14$), a pseudo-random value determines whether $r < P(\t
 ## ⚠️ Disclaimer
 
 This repository is an open-source, non-commercial educational project built for portfolio and learning purposes. It is not affiliated with, endorsed by, or sponsored by any official cricket league or governing body. All player names and statistics belong to their respective copyright holders.
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
