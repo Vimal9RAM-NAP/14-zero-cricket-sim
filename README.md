@@ -1,4 +1,4 @@
-# 🏏 14-0: T20 Cricket Squad Draft & Season Simulator
+# 14-0: T20 Cricket Squad Draft & Season Simulator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🎮 Game Rules & Roster Constraints
+##  Game Rules & Roster Constraints
 
 1. **Roster Requirements:** Draft 11 positions across designated roles:
    - 2 Openers
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠 Tech Stack & Architecture
+##  Tech Stack & Architecture
 
 - **Frontend:** Vanilla HTML5, CSS3, JavaScript (ES6 Modules)
 - **Data Pipeline:** Python script generating a JSON database of 200 player eras
@@ -42,7 +42,7 @@ cricket-draft-simulator/
 
 ---
 
-## 🚀 Quick Start (Local Setup)
+##  Quick Start (Local Setup)
 
 1. **Clone the repository:**
 
@@ -66,7 +66,7 @@ cricket-draft-simulator/
    - Open `index.html` directly in any web browser, **or**
    - Use the VS Code **Live Server** extension for local testing.
 
-## 📈 Match Simulation Math
+##  Match Simulation Math
 
 The team win probability $P(\text{Win})$ is computed using cumulative squad ratings vs. a baseline opponent rating ($O_{\text{score}} = 1600$):
 
@@ -80,6 +80,6 @@ For each match ($1$ to $14$), a pseudo-random value determines whether $r < P(\t
 
 This repository is an open-source, non-commercial educational project built for portfolio and learning purposes. It is not affiliated with, endorsed by, or sponsored by any official cricket league or governing body. All player names and statistics belong to their respective copyright holders and owners.
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
