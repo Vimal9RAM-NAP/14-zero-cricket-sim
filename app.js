@@ -146,7 +146,7 @@ simBtn.addEventListener('click', () => {
   simResultsEl.innerHTML = `
     <p>Final Record: <span style="color:#38bdf8">${wins}-${losses}</span></p>
     <p>${wins === 14 ? '🏆 PERFECT 14-0 SEASON! UNBEATEN!' : 'Good attempt! Try drafting a higher-rated XI.'}</p>
-    <button id="reset-btn" class="primary-btn" style="margin-top: 14px; background-color: #10b981;">Play Again 🔄</button>
+    <button id="reset-btn" class="primary-btn" style="margin-top: 14px; background-color: #10b981;">Play Again</button>
   `;
 
   // Attach restart logic
